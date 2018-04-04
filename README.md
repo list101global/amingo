@@ -7,9 +7,11 @@ Using the cryptographic breakthrough of the blockchain ledger, LIST101 is launch
 
 * Security - LIST101 users benefit from ultimate security with user data stored in the blockchain.
 
-* Mainstream adoption – Retail partnerships, ensures a healthy eco-system where AMG coins can be used outside of LIST101. 
+* Mainstream Adoption – Retail partnerships, ensures a healthy eco-system where AMG coins can be used outside of LIST101. 
 
-* Proof of concept - Successfully launched in Denmark and scheduled to roll out globally in 2018 and 2019.
+* Quality Assurance - 40,000+ development hours spent by LIST101's team of industry experts.
+
+* Proof of Concept - Successfully launched in Denmark and scheduled to roll out globally in 2018 and 2019.
 
 
 ### Fast P2P Transactions
