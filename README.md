@@ -18,7 +18,7 @@ As an ERC-20 token, AMINGO utilizes the full power of the Ethereum Blockchain fo
 
 ### Portfolio Growth
 
-User Incentive Programs and Retail Partner Programs ensures token value growth.
+User Incentive Programs and Retail Partner Programs ensure token value growth.
 
 ### Whitepaper and additional info
 
