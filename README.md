@@ -22,6 +22,10 @@ As an ERC-20 token, AMINGO utilizes the full power of the Ethereum Blockchain fo
 
 User Incentive Programs and Retail Partner Programs ensure token value growth.
 
+### Smart contract
+
+The AMINGO smart contract will be available for review in our repository prior to ICO.
+
 ### Whitepaper and additional info
 
 www.list101global.com/tokensale/
