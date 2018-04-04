@@ -27,7 +27,7 @@ www.list101global.com/tokensale/
 
 
 
-Token Address | ?
+Token Address | TBA
 ------------ | -------------
 Decimals | 18
 Symbol | AMG
