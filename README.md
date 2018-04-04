@@ -33,7 +33,7 @@ www.list101global.com/tokensale/
 
 
 
-Token Address | TBA
+Token Address | T.B.A.
 ------------ | -------------
 Decimals | 18
 Symbol | AMG
