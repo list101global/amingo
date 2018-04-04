@@ -1,7 +1,7 @@
 # AMINGO Tokens
 ### Decentralising social media with the Ethereum ERC-20 Blockchain
 
-Using the cryptographic breakthrough of the blockchain ledger and anonymous cryptocurrencies, LIST101 is launching the AMINGO utility token and enhanced means of user protection.
+Using the cryptographic breakthrough of the blockchain ledger, LIST101 is launching the AMINGO utility token and enhanced means of user protection.
 
 * Disruption - LIST101 provides a new social media experience allowing its users to monetize their online activity.
 
